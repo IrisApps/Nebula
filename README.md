@@ -6,6 +6,16 @@ Aplicación experimental multiplataforma desarrollada con Flutter.
 
 https://nebulairissystem.netlify.app/
 
+## Instalación y descargas
+
+[![GitHub release](https://img.shields.io/github/v/release/IrisApps/Nebula)](https://github.com/IrisApps/Nebula/releases/tag/v1.0.0)
+
+### Descargas disponibles
+- 📱 [Android APK](https://github.com/IrisApps/Nebula/releases/download/v1.0.0/app-release.apk)
+- 💻 [Windows EXE](https://github.com/IrisApps/Nebula/releases/download/v1.0.0/nebula.exe)
+- 🌐 [Web local ZIP](https://github.com/IrisApps/Nebula/releases/download/v1.0.0/web.zip)
+- 📄 [Ver release completo](https://github.com/IrisApps/Nebula/releases/tag/v1.0.0)
+
 ## Tecnologías
 
 - Flutter
@@ -32,12 +42,8 @@ https://nebulairissystem.netlify.app/
 - Ajustes de accesibilidad
 - Reproducción en segundo plano en Android
 
-## Descargas disponibles:
-- 📱 **Android**: nebula.apk
-- 💻 **Windows**: nebula.exe
-- 🌐 **Web Local**: Página web incluida
+## Cambios
 
-### Cambios:
 - Primer release oficial
 - Soporte para Android y Windows
 - Versión web para navegador
